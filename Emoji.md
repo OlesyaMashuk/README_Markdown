@@ -1,6 +1,6 @@
-# EMOJI CHEAT SHEET
+# EMOJI 
 
-[Назад к README.md](https://github.com/GnuriaN/format-README.md/blob/master/README.md)
+[Назад к README.md](https://github.com/GnuriaN/format-README.md/blob/master/README.md)](https://github.com/OlesyaMashuk/README_format/blob/master/README.md)
 
 ##  People
 |		|		|		|
