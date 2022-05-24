@@ -1,5 +1,6 @@
 # Описание разметки файла README.md
-Для описания проектов на GitHub используется README.md, который пишется на языке разметки markdown. Что и как поддерживается расписано ниже. Также существует еще один формат - [reStructuredText](https://github.com/GnuriaN/format-README/blob/master/README.rst), описание которого вынесено в отдельный файл `README.rst`.
+Для описания проектов на GitHub используется файл README.md, пишем его на языке разметки **markdown**. 
+Ниже приведены некоторые особенности при форматировании.
 
 ## Оглавление
 
@@ -18,7 +19,7 @@
 9. [Вставка изображения](#Вставка-изображения)
 10. [Вставка таблиц](#Вставка-таблиц)
 11. [Диаграмм Mermaid.js](#диаграмм-mermaidjs)
-12. [Дополнения](https://github.com/GnuriaN/format-README/blob/master/Дополнения.md)
+
     
 ## Разделительная черта
 При использовании
@@ -133,7 +134,7 @@ ____
 :black_square_button: делать или не делать, вот в чем вопрос?    
 ```
 
-Список работающих Эмодзи находится тут -> [emoji.md](https://github.com/GnuriaN/format-README.md/blob/master/emoji.md)    
+Список работающих Эмодзи находится тут -> [emoji.md]([https://github.com/OlesyaMashuk/README_format/blob/master/Emoji.md])
     
 [:arrow_up:Оглавление](#Оглавление)
 ___
